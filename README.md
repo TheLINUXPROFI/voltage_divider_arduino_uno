@@ -18,7 +18,7 @@ R1 = 10kOhm = 10000 Ohm (brown, Black, Orange)
 R2 = 4,7kOhm = 4700 Ohm (Yellow, purple, red)
 
 The diode is to to avoid current feedback. Diode can handle 6 Ampers. I need 6 Ampers for my robot.
-Doíode voltage drop is 0,5 Volts. The power that the diode has to handle is:
+Díode voltage drop is 0,5 Volts. The power that the diode has to handle is:
 
 Power ( in Watts ) = Vf ( in Volts ) * I ( in Ampers )
 Power = 12,8 * 6 --> Power = 76,8 watt
