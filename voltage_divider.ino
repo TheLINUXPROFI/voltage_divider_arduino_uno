@@ -1,4 +1,4 @@
-// 128 is for me a good number.
+// 80 is for me a good number.
 // You have to check how many volts is comming from your battery / Lipo
 // The Arduino gives numbers instead of the right Voltage so we have to calculate it before we can display it. 
 // First we need to know which value represent which value. 
