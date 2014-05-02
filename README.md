@@ -11,7 +11,7 @@ With two resistors we can produce the needed voltage.
 
 The formula is:
 
-U2=U*R2/(R1+R2)
+U2=U*R2/(R1+R2) ( see picture divider_shema.png )
 
 R1 = 10kOhm = 10000 Ohm (brown, Black, Orange)
 
